@@ -7,3 +7,5 @@ async function myFunction() {
   }
 }
 myFunction();
+
+console.log("Hi there! I'm Lahiru");
